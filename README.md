@@ -53,6 +53,7 @@ I'm Jinjavadiya Vijay from Rajkot, Gujarat. I’m currently pursuing my diploma 
 - Preparing for internships and placements
 
 <hr/>
+
 ### let's talks 
 Location: Rajkot, Gujarat  
 LinkedIn: https://www.linkedin.com/in/<your-linkedin>/  
