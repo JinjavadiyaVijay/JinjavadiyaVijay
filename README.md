@@ -10,7 +10,7 @@
 
 ### About
 
-I'm Jinjavadiya Vijay from Rajkot, Gujarat. I’m currently pursuing my diploma in Computer engineering at A.V. Parekh technical institute, Rajkot. right now I’m focused on strengthening my fundamentals, developing machine learning models, and exploring deep learning and NLP.
+I'm Jinjavadiya Vijay from Gujarat. I’m currently pursuing my diploma in Computer engineering at A.V. Parekh technical institute, Rajkot. right now I’m focused on strengthening my fundamentals, developing machine learning models, and exploring deep learning and neural networks.
 <hr/>
 
 ### Skills
