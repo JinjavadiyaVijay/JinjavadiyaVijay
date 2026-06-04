@@ -1,3 +1,9 @@
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
 <h1 align="center">Hi, I'm Vijay Jinjavadiya <Your Name></h1>
 <h3 align="center">Computer Engineering Student </h3>
 
