@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=JinjavadiyaVijay&style=flat-square&color=58a6ff&label=visitors" />
+  
 </div>
 
 <br/>
@@ -30,18 +30,10 @@
 
 <div align="center">
   <p>
-    Computer Engineering student from Rajkot, Gujarat — building ML systems that work in the real world.<br/>
-    Currently interning on AI-based fish detection & biometric measurement using YOLO and stereo depth cameras.
+ Computer Engineering student from Rajkot, Gujarat.<br/>
+Interested in Machine Learning, AI, Computer Vision, and Software Engineering. Always learning and building.
   </p>
 </div>
-
----
-
-<div align="center">
-  <img width="90%" src="https://raw.githubusercontent.com/JinjavadiyaVijay/JinjavadiyaVijay/main/underwater.gif" />
-</div>
-
-<br/>
 
 ---
 
