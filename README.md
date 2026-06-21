@@ -81,13 +81,24 @@ vijay = {
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 </p>
+
+### Algorithms & Concepts
+
+<p>
+  <img src="https://img.shields.io/badge/Neural%20Networks-3F7F7A?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ANN-5B5B5B?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CNN-3F6B8A?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RNN-4F7A63?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supervised%20Learning-8A4F6D?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unsupervised%20Learning-5E5C8A?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-8A6D3B?style=flat&logoColor=white"/>
+</p>
+
 
 **ML / DL Frameworks**
 
@@ -122,26 +133,6 @@ vijay = {
 
 ---
 
-## 🚀 Featured Project
-
-### 🐟 FishVision-AI
-> **Real-time fish species detection & biometric measurement system**
-
-- Trained **YOLOv8** on **13 species** (~3,200 images via Roboflow) achieving strong mAP
-- **Weight prediction** using fisheries formula `W = a × Lᵇ` with species-specific coefficients
-- **Maturity classification** and population health indicators
-- **OAK-D Pro stereo depth camera** integration for real-time length/width biometric estimation via pinhole camera geometry
-- Full **Streamlit UI** for live inference and analytics
-
-<p>
-  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAK--D%20Pro-0077B5?style=flat-square&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
