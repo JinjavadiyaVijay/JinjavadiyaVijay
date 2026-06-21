@@ -188,6 +188,4 @@ vijay = {
 
 ---
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:162032,50:0f1923,100:0d1117&height=80&section=footer" />
-</div>
+<div align="center"> <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /></div>
