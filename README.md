@@ -2,11 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f1923,100:162032&height=220&section=header&text=Vijay%20Jinjavadiya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Deep%20Learning&descAlignY=63&descColor=a0c4e8&descSize=20" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=580&lines=Building+real-world+CV+%26+AI+systems;YOLOv8+%7C+OAK-D+Pro+%7C+PyTorch+%7C+Deep+RL;Fish+Detection+%E2%86%92+13+species+%7C+strong+mAP;Diploma+CE+%E2%80%A2+A.V.+Parekh+Technical+Institute%2C+Rajkot" />
-</div>
-
-<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jinjavadiyavijay/">
